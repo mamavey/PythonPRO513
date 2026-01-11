@@ -1,0 +1,27 @@
+[
+  {
+    "task": "Fix bugs",
+    "assignee": "Anna",
+    "status": "completed"
+  },
+  {
+    "task": "Develop feature",
+    "assignee": "Boris",
+    "status": "in progress"
+  },
+  {
+    "task": "Code review",
+    "assignee": "Anna",
+    "status": "completed"
+  },
+  {
+    "task": "Write tests",
+    "assignee": "Victoria",
+    "status": "completed"
+  },
+  {
+    "task": "Write tests",
+    "assignee": "Peter",
+    "status": "completed"
+  }
+]

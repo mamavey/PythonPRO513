@@ -1,0 +1,15 @@
+{
+    "ClassName": "MyCat",
+    "fields": {
+        "name": "Мурзик",
+        "age": 4,
+        "gender": "самец"
+    },
+    "methods": {
+        "get_data": [
+            "Мурзик",
+            4,
+            "самец"
+        ]
+    }
+}
